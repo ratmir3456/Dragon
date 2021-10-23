@@ -1,0 +1,171 @@
+# Blender MTL File: 'endo.blend'
+# Material Count: 17
+
+newmtl Color_006.004
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.172674 0.172674 0.172674
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered foxy file\foxy_2\pasted__Foxy_Hea1.bmp
+
+newmtl Color_006.004_NONE
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.172674 0.172674 0.172674
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Documents and Settings\\sharon\\My Documents\\Downloads\\withered bonnies texture folder\\endo_body.png
+
+newmtl Color_006.004_endo_body.png
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.172674 0.172674 0.172674
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered bonnies texture folder\endo_body.png
+
+newmtl Color_007.001
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.060235 0.060235 0.060235
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered bonnies texture folder\endo_body.png
+
+newmtl Color_007.001_NONE
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.060235 0.060235 0.060235
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Documents and Settings\\sharon\\My Documents\\Downloads\\withered bonnies texture folder\\endo_body.png
+
+newmtl Color_007.001_endo_body.png.004
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.060235 0.060235 0.060235
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered bonnies texture folder\endo_body.png
+
+newmtl Color_007.001_pasted__Foxy_Hea1.bmp
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.060235 0.060235 0.060235
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered foxy file\foxy_2\pasted__Foxy_Hea1.bmp
+
+newmtl Color_008.001
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.060235 0.060235 0.060235
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered bonnies texture folder\endo_body.png
+
+newmtl Color_008.001_NONE
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.060235 0.060235 0.060235
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Documents and Settings\\sharon\\My Documents\\Downloads\\withered bonnies texture folder\\endo_body.png
+
+newmtl FrontColor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl FrontColor.002
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered bonnies texture folder\endo_body.png
+
+newmtl Material.002
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.005677 0.005677 0.005677
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered bonnies texture folder\endo_body.png
+
+newmtl Material.003
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered bonnies texture folder\endo_body.png
+
+newmtl Material1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.649412 0.640000 0.558431
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered foxy file\foxy_2\Material1.png
+
+newmtl Material1.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.229020 0.229020 0.235294
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered foxy file\ear\Material.PNG
+
+newmtl pasted__Foxy_Hea1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.382745 0.138039 0.097255
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Documents and Settings\sharon\My Documents\Downloads\withered foxy file\foxy_2\pasted__Foxy_Hea1.bmp
+
+newmtl pasted__Foxy_Hea1_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.382745 0.138039 0.097255
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Documents and Settings\\sharon\\My Documents\\Downloads\\withered foxy file\\foxy_2\\pasted__Foxy_Hea1.bmp
