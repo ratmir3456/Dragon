@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1105 &110500000
+HumanTemplate:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Freddi
+  m_BoneTemplate:
+    Head: Head_Bn
+    Hips: Hip_Bn
+    Jaw: Jaw_Bn
+    LeftEye: L_Eye_Bn
+    LeftFoot: L_Knee_Bn_end
+    LeftHand: L_Arm_02_Bn_end
+    LeftLowerArm: L_Arm_02_Bn
+    LeftLowerLeg: L_Knee_Bn
+    LeftShoulder: L_Clavicle_Bn
+    LeftUpperArm: L_Arm_01_Bn
+    LeftUpperLeg: L_Leg_01_Bn
+    Neck: Neck_Bn
+    RightEye: R_Eye_Bn
+    RightFoot: R_Knee_Bn_end
+    RightHand: R_Arm_02_Bn_end
+    RightLowerArm: R_Arm_02_Bn
+    RightLowerLeg: R_Knee_Bn
+    RightShoulder: R_Clavicle_Bn
+    RightUpperArm: R_Arm_01_Bn
+    RightUpperLeg: R_Leg_01_Bn
+    Spine: Spine_Bn
